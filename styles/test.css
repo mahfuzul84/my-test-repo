@@ -1,0 +1,32 @@
+/* nav section styles */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(35, 32, 32);
+    padding: 20px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menus{
+    display: flex;
+}
+.logo-photo{
+    width: 120px;
+}
+.item{
+    margin-right: 20px;
+    padding-right: 7px;
+    font-size: 18px;
+}
+.item:hover{
+    color: blue;
+}
+
+
+
+
